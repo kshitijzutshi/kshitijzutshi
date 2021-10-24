@@ -6,7 +6,7 @@
 
 I am currently working as a Frontend Web Developer and finding my way into the field of Data science through tutorials and projects 🧠. I ❤️ building responsive Websites and leverage the power of ML to bring insightful viisualizations to user data. 
 - 🔭 I’m currently working on [Machine learning Crash course by Google](https://developers.google.com/machine-learning), [Kaggle competitions](https://www.kaggle.com/competitions) and Theoritical material related to ML as well as Improving My Problem Solving Skills. 
-- 🌱 I’m currently learning to [Build models predicting housing/Real estate prices](https://www.kaggle.com/sagarnildass/predicting-boston-house-prices) and [Predict Customer Churn](https://www.kaggle.com/c/customer-churn-prediction-2020)
+- 🌱 I’m currently learning to [Build models predicting housing/Real estate prices](https://www.kaggle.com/sagarnildass/predicting-boston-house-prices) and [Predicting Customer Churn](https://www.kaggle.com/c/customer-churn-prediction-2020)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
