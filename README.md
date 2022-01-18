@@ -2,6 +2,7 @@
 
 #### I am Passionate about diving deep into the field of Data Science/ Data Analytics. 📊
 
+#### Exploratory Data Analysis | Predictive Analytics | Data Visualization | Explainable AI
 
 
 I am currently working as a Graduate Research Assistant at Northeastern University 🇺🇸 with a focus on Data Imputation, Visualization and Explainable AI pipelines 🧠. I ❤️ building responsive Websites and leverage the power of ML to bring insightful viisualizations to user data. 
