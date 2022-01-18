@@ -4,9 +4,9 @@
 
 
 
-I am currently working as a Frontend Web Developer and finding my way into the field of Data science through tutorials and projects 🧠. I ❤️ building responsive Websites and leverage the power of ML to bring insightful viisualizations to user data. 
-- 🔭 I’m currently working on [Machine learning Crash course by Google](https://developers.google.com/machine-learning), [Kaggle competitions](https://www.kaggle.com/competitions) and Theoritical material related to ML as well as Improving My Problem Solving Skills. 
-- 🌱 I’m currently learning to Build ![Multi class image classification using CNN (Dataset - Kaggle's Intel image classification dataset)](https://camo.githubusercontent.com/a21649b20333cc5f3f84253a43650b4a2bc15b30e4a09637244c48241f2ccfa6/68747470733a2f2f7777772e6b6167676c652e636f6d2f70756e656574363036302f696e74656c2d696d6167652d636c617373696669636174696f6e) and ![Cityscapes Image Pairs - Semantic Segmentation for Improving Automated Driving](https://www.kaggle.com/dansbecker/cityscapes-image-pairs)
+I am currently working as a Graduate Research Assistant at Northeastern University 🇺🇸 with a focus on Data Imputation, Visualization and Explainable AI pipelines 🧠. I ❤️ building responsive Websites and leverage the power of ML to bring insightful viisualizations to user data. 
+- 🔭 I’m currently taking the [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning) to gain conceptual knowledge on neural Networks and Deep learning.
+- 🌱 My Most recent project - ![Understanding Image Segmentation using UNet & Model intepretability using Pytorch Captum](https://github.com/kshitijzutshi/INFO6105-Final-Portfolio-Project/blob/main/image-segmentation-with-unet-pytorch.ipynb) and ![Multi class image classification using CNN](https://github.com/kshitijzutshi/INFO6105-CNN-Assignment)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
