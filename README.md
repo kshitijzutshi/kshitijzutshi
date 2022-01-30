@@ -47,7 +47,9 @@ I am currently working as a Graduate Research Assistant at Northeastern Universi
  <!---
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kshitijzutshi&show_icons=true&locale=en&theme=dark" alt="kshitijzutshi" /></p>
 -->
-![github stats](https://github-readme-stats.vercel.app/api?username=kshitijzutshi&show_icons=true)
-
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kshitijzutshi&show_icons=true&locale=en&layout=compact" alt="kshitijzutshi" />
+ 
+![github stats](https://github-readme-stats.vercel.app/api?username=kshitijzutshi&show_icons=true) 
+ 
 ### 📝 My Latest Blog Post in Medium
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@kshitij.zutshi/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@kshitij.zutshi/0" alt="Recent Article 0"></a>
