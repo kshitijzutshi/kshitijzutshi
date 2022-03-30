@@ -9,7 +9,7 @@
 
 I am currently working as a Graduate Research Assistant at Northeastern University 🇺🇸 with a focus on Data Imputation, Visualization and Explainable AI pipelines 🧠. I ❤️ building responsive Websites and leverage the power of ML to bring insightful viisualizations to user data. 
 - 🔭 I’m currently taking the [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning) to gain conceptual knowledge on neural Networks and Deep learning.
-- 🌱 My Most recent project - ![Understanding Image Segmentation using UNet & Model intepretability using Pytorch Captum](https://github.com/kshitijzutshi/INFO6105-Final-Portfolio-Project/blob/main/image-segmentation-with-unet-pytorch.ipynb) and ![Multi class image classification using CNN](https://github.com/kshitijzutshi/INFO6105-CNN-Assignment)
+- 🌱 My Most recent projects - ![Building a Big Data Pipeline for weather Nowcasting on SEVIR data](https://github.com/kshitijzutshi/SEVIR-Nowcasting) - Based on ![MIT - SEVIR Dataset Challenge](https://sevir.mit.edu/) , ![Understanding Image Segmentation using UNet & Model intepretability using Pytorch Captum](https://github.com/kshitijzutshi/INFO6105-Final-Portfolio-Project/blob/main/image-segmentation-with-unet-pytorch.ipynb) and ![Multi class image classification using CNN](https://github.com/kshitijzutshi/INFO6105-CNN-Assignment)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
