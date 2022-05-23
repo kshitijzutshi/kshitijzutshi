@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kshitijzutshi&label=Profile%20views&color=0e75b6&style=flat" alt="kshitijzutshi" /> </p>
 
-#### I am Passionate about diving deep into the field of Data Science/ Data Analytics. 📊
+#### I am Passionate about diving deep into the field of Data Science/ Data Engineering. 
 
-#### Exploratory Data Analysis | Predictive Analytics | Data Visualization | Explainable AI
+#### Exploratory Data Analysis | Predictive Analytics | Data Visualization | Explainable AI | MLOps
 
 
 I am currently working as a Graduate Research Assistant at Northeastern University 🇺🇸 with a focus on Data Imputation, Visualization and Explainable AI pipelines 🧠. I ❤️ building responsive Websites and leverage the power of ML to bring insightful viisualizations to user data. 
