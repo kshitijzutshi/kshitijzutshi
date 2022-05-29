@@ -9,7 +9,7 @@
 
 I am currently working as a Graduate Research Assistant at Northeastern University 🇺🇸 with a focus on Data Imputation, Visualization and Explainable AI pipelines 🧠. I ❤️ building responsive Websites and leverage the power of ML to bring insightful viisualizations to user data. 
 - 🔭 I’m currently taking the [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning) to gain conceptual knowledge on neural Networks and Deep learning.
-- I am learning how to deploy an AI microservice REST API endpoint using FastAPI, pytesseract, Docker, & DigitalOcean App Platform : [FAST-API-Text-OCR](https://github.com/kshitijzutshi/FAST-API-Text-OCR)
+- I am coding to deploy an AI microservice REST API endpoint using FastAPI, pytesseract & streamlit cloud App Platform : [FAST-API-Text-OCR](https://github.com/kshitijzutshi/FAST-API-Text-OCR)
 - 🌱 My Most recent projects:
 
 | Project                                                                                  | Description                                                                                                                                                    |
