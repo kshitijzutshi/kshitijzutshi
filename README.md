@@ -2,28 +2,29 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kshitijzutshi&label=Profile%20views&color=0e75b6&style=flat" alt="kshitijzutshi" /> </p>
 
-#### I am Passionate about diving deep into the field of Data Science/ Data Engineering. 
+#### I am Passionate about diving deep into the field of Applied AI in Software Engineering. 
 
-#### Exploratory Data Analysis | Predictive Analytics | Data Visualization | Explainable AI | MLOps
+#### Software Engineering | Predictive Analytics | Data Visualization | Explainable AI | MLOps
 
 
-I am currently working as a Graduate Research Assistant at Northeastern University 🇺🇸 with a focus on Data Imputation, Visualization and Explainable AI pipelines 🧠. I ❤️ building responsive Websites and leverage the power of ML to bring insightful viisualizations to user data. 
+I am currently working as a Software Engineer Co-Op at Philips with a focus on building APIs, Microservices and CI/CD Pipelines using GitHub Actions 🧠. I ❤️ building APIs and Microservices to leverage the power of Applied AI in Software. 
 - 🔭 I’m currently taking the [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning) to gain conceptual knowledge on neural Networks and Deep learning.
 - I am coding to deploy an AI microservice REST API endpoint using FastAPI, pytesseract & streamlit cloud App Platform : [FAST-API-Text-OCR](https://github.com/kshitijzutshi/FAST-API-Text-OCR)
 - 🌱 My Most recent projects:
 
 | Project                                                                                  | Description                                                                                                                                                    |
 |------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Content Based Music Recommendation System - Spotify                                      | ![Spotify Millions Playlist \| AI crowd challenge](https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge)                              |
-| Building a Big Data Pipeline for weather Nowcasting on SEVIR data                        | ![MIT - SEVIR Dataset Challenge](https://sevir.mit.edu/)                                                                                                       |
-| Understanding Image Segmentation using UNet & Model intepretability using Pytorch Captum | ![Image Segmentation Jupyter Notebook](https://github.com/kshitijzutshi/INFO6105-Final-Portfolio-Project/blob/main/image-segmentation-with-unet-pytorch.ipynb) |
-| Multi class image classification using CNN                                               | ![Multi class image classification using CNN Jupyter Notebook](https://github.com/kshitijzutshi/INFO6105-CNN-Assignment)                                       |
+| Content Based Music Recommendation System - Spotify                                      | [Spotify Millions Playlist AI crowd challenge](https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge)                              |
+| Building a Big Data Pipeline for weather Nowcasting on SEVIR data                        | [MIT - SEVIR Dataset Challenge](https://sevir.mit.edu/)                                                                                                       |
+| Understanding Image Segmentation using UNet & Model intepretability using Pytorch Captum | [Image Segmentation Jupyter Notebook](https://github.com/kshitijzutshi/INFO6105-Final-Portfolio-Project/blob/main/image-segmentation-with-unet-pytorch.ipynb) |
+| Multi class image classification using CNN                                               | [Multi class image classification using CNN Jupyter Notebook](https://github.com/kshitijzutshi/INFO6105-CNN-Assignment)                                       |
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
 <a href="https://linkedin.com/in/kshitij-zutshi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kshitij-zutshi" height="30" width="40" /></a>
+<a href="https://medium.com/@kshitij.zutshi" target="blank"><img align="center" src="https://github.com/kshitijzutshi/kshitijzutshi/assets/13203059/61eb1b73-8a72-4c8f-b660-f9ca717e6cd8" alt="" height="30" width="40" /></a>
 <a href="https://instagram.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/user3191j" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="user3191j" height="30" width="40" /></a>
 <a href="https://facebook.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" /></a>
@@ -62,5 +63,6 @@ I am currently working as a Graduate Research Assistant at Northeastern Universi
  
 ![github stats](https://github-readme-stats.vercel.app/api?username=kshitijzutshi&show_icons=true) 
  
-### 📝 My Latest Blog Post in Medium
+### 📝 My Latest Blog Posts in Medium
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@kshitij.zutshi/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@kshitij.zutshi/0" alt="Recent Article 0"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@kshitij.zutshi/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@kshitij.zutshi/1" alt="Recent Article 1"></a>
