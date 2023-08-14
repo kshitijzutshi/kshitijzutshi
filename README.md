@@ -4,7 +4,7 @@
 
 #### I am Passionate about diving deep into the field of Applied AI in Software Engineering. 
 
-#### Software Engineering | Predictive Analytics | Data Visualization | Explainable AI | MLOps
+#### Software Engineering | Predictive Analytics | Data Visualization | Explainable AI | MLOps | Prompt Engineering
 
 
 I am currently working as a Software Engineer Co-Op at Philips with a focus on building APIs, Microservices and CI/CD Pipelines using GitHub Actions 🧠. I ❤️ building APIs and Microservices to leverage the power of Applied AI in Software. 
