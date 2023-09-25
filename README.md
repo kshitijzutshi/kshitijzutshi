@@ -7,7 +7,7 @@
 #### Software Engineering | Predictive Analytics | Data Visualization | Explainable AI | MLOps | Prompt Engineering
 
 
-I am currently working as a Software Engineer Co-Op at Philips with a focus on building APIs, Microservices and CI/CD Pipelines using GitHub Actions 🧠. I ❤️ building APIs and Microservices to leverage the power of Applied AI in Software. 
+I am a soon to be New Grad actively seeking SWE/Data Opportunities, formerly I working as a Software Engineer Co-Op at Philips with a focus on building APIs, Microservices and CI/CD Pipelines using GitHub Actions 🧠. I ❤️ building APIs and Microservices to leverage the power of Applied AI in Software. 
 - 🔭 I’m currently taking the [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning) to gain conceptual knowledge on neural Networks and Deep learning.
 - I am coding to deploy an AI microservice REST API endpoint using FastAPI, pytesseract & streamlit cloud App Platform : [FAST-API-Text-OCR](https://github.com/kshitijzutshi/FAST-API-Text-OCR)
 - 🌱 My Most recent projects:
