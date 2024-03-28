@@ -2,14 +2,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kshitijzutshi&label=Profile%20views&color=0e75b6&style=flat" alt="kshitijzutshi" /> </p>
 
-#### I am Passionate about diving deep into the field of Applied AI in Software Engineering. 
+#### Passionate about Applied AI in Software Engineering 🚀
 
-#### Software Engineering | Predictive Analytics | Data Visualization | Explainable AI | MLOps | Prompt Engineering
+#### Software Engineering | Data Visualization | Explainable AI | MLOps | Prompt Engineering | LLM RLHF Training
 
+I am an experienced Software Engineer currently conducting comparative analysis and implementing **RLHF**(Reinforcement Learning by Human Feedback) to optimize AI accuracy and safety for **Open AI Project Feather**. 
 
-I am a soon to be New Grad actively seeking SWE/Data Opportunities, formerly I working as a Software Engineer Co-Op at Philips with a focus on building APIs, Microservices and CI/CD Pipelines using GitHub Actions 🧠. I ❤️ building APIs and Microservices to leverage the power of Applied AI in Software. 
+Formerly I have worked as a Software Engineer Co-Op at Philips with a focus on building APIs, Microservices, and CI/CD Pipelines using **GitHub Actions, AWS, Terraform, and ArgoCD** 🧠. 
+
+I ❤️ building APIs and Microservices to leverage the power of Applied AI in Software. Ready for new SWE/Data Opportunities! 🚀
+
 - 🔭 I’m currently taking the [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning) to gain conceptual knowledge on neural Networks and Deep learning.
-- I am coding to deploy an AI microservice REST API endpoint using FastAPI, pytesseract & streamlit cloud App Platform : [FAST-API-Text-OCR](https://github.com/kshitijzutshi/FAST-API-Text-OCR)
+- In my most recent exploratory project I worked to deploy an AI microservice REST API endpoint using FastAPI,PyTesseract & Streamlit cloud App Platform : [FAST-API-Text-OCR](https://github.com/kshitijzutshi/FAST-API-Text-OCR)
+
 - 🌱 My Most recent projects:
 
 | Project                                                                                  | Description                                                                                                                                                    |
