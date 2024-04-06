@@ -69,5 +69,5 @@ I ❤️ building APIs and Microservices to leverage the power of Applied AI in 
 ![github stats](https://github-readme-stats.vercel.app/api?username=kshitijzutshi&show_icons=true) 
  
 ### 📝 My Latest Blog Posts in Medium
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@kshitij.zutshi/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@kshitij.zutshi/0" alt="Recent Article 0"></a>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@kshitij.zutshi/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@kshitij.zutshi/1" alt="Recent Article 1"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@kshitij.zutshi/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@kshitij.zutshi/0" alt="Recent Article_0"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@kshitij.zutshi/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@kshitij.zutshi/1" alt="Recent Article_1"></a>
