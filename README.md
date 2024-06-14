@@ -24,6 +24,9 @@ I ❤️ building APIs and Microservices to leverage the power of Applied AI in 
 | [Understanding Image Segmentation using UNet & Model intepretability using Pytorch Captum](https://github.com/kshitijzutshi/INFO6105-Final-Portfolio-Project) | [Image Segmentation Jupyter Notebook](https://github.com/kshitijzutshi/INFO6105-Final-Portfolio-Project/blob/main/image-segmentation-with-unet-pytorch.ipynb) |
 | Multi class image classification using CNN                                               | [Multi class image classification using CNN Jupyter Notebook](https://github.com/kshitijzutshi/INFO6105-CNN-Assignment)                                       |
 
+📊 My Data Visualization Portfolio on Tableau Public Cloud ☁️
+
+[Kshitij Zutshi - Tableau Public Profile](https://public.tableau.com/app/profile/kshitij.zutshi8564/vizzes)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
